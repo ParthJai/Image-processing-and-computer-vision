@@ -1,0 +1,3 @@
+An application of kalman filter which predicts the path of a basketball.
+For locating ball in space, colour-based segmentation is employed though one can use other techniques too.
+Done on python so needs openCV and numpy library installed.
