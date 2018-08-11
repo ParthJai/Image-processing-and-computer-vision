@@ -1,3 +1,4 @@
-This is an implementation of hough transform and canny edge detector for tracing lane lines on a road.
-Since this implementation specifies an ROI, it should need tweaks for applying it in a video other than the test one.
+This is an implementation of hough transform and canny edge detector for tracing railway tracks.
+Since this implementation specifies an ROI, it should need tweaks for applying it in a video other than the test one. 
+This work is to be extended to road lane departure warning system.
 Done on python.
